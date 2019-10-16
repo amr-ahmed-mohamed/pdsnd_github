@@ -18,5 +18,5 @@ Libraries used pandas time , numby
 
 Credits Resources helped me to complete the project:
 
-pandas: powerful Python data analysis toolkit (BOOK) 2-youtube
+pandas: it's Python data analysis library
 
