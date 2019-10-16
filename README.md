@@ -1,15 +1,24 @@
-### Date created
-Include the date you created this project and README file.
+Date created 16/10/2019 Project Title US Bikeshare Project
 
-### Project Title
-Replace the Project Title
+Description of past decade, bike-sharing systems have been growing in number and popularity in cities across the world. 
 
-### Description
-Describe what your project is about and what it does
+Bicycle-sharing systems allow users to rent bicycles on a very short-term basis for a price. 
 
-### Files used
-Include the files used
+This allows people to borrow a bike from point A and return it to point B, though they can also return it to same location if they would like to just go for a ride.
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Regardless, each bike can serve several users per day.
+
+Thanks to the rise in information technologies, it's easy for a user of the system to access a dock within the system to unlock or return bicycles.
+
+These technologies also provide a huge amounts of data that can be used to explore how these bike-sharing systems are used.
+
+Files used chicago.csv new_york_city.csv washington.csv
+
+Programming Language used python 3.7
+
+Libraries used pandas time , numby
+
+Credits Resources helped me to complete the project:
+
+pandas: powerful Python data analysis toolkit (BOOK) 2-youtube
 
