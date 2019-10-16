@@ -8,8 +8,6 @@ This allows people to borrow a bike from point A and return it to point B, thoug
 
 Regardless, each bike can serve several users per day.
 
-Thanks to the rise in information technologies, it's easy for a user of the system to access a dock within the system to unlock or return bicycles.
-
 These technologies also provide a huge amounts of data that can be used to explore how these bike-sharing systems are used.
 
 Files used chicago.csv new_york_city.csv washington.csv
