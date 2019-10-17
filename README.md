@@ -11,7 +11,11 @@ Regardless, each bike can serve several users per day.
 
 These technologies also provide a huge amounts of data that can be used to explore how these bike-sharing systems are used.
 
-Files used chicago.csv new_york_city.csv washington.csv
+Files used :
+ 1- chicago.csv 
+ 2- new_york_city.csv 
+ 3- washington.csv
+
 
 Programming Language used python 3.7
 
@@ -35,7 +39,9 @@ Files used chicago.csv new_york_city.csv washington.csv
 
 Programming Language used python 3.7
 
-Credits Resources helped me to complete the project:
+Libraries used :
+ 1- pandas
+ 2- numby
 
 pandas: powerful Python data analysis library
 
