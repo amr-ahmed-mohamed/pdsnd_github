@@ -15,11 +15,7 @@ Files used chicago.csv new_york_city.csv washington.csv
 
 Programming Language used python 3.7
 
-Libraries used pandas time , numby
-
 Credits Resources helped me to complete the project:
-
-pandas: it's Python data analysis library
 
 Date of creation  16/10/2019 Project Title US Bikeshare Project
 
@@ -38,8 +34,6 @@ These technologies also provide a wealth of data that can be used to explore how
 Files used chicago.csv new_york_city.csv washington.csv
 
 Programming Language used python 3.7
-
-Libraries used pandas time
 
 Credits Resources helped me to complete the project:
 
