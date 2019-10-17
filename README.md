@@ -12,7 +12,13 @@ Thanks to the rise in information technologies, it is easy for a user of the sys
 
 These technologies also provide a wealth of data that can be used to explore how these bike-sharing systems are used.
 
-Files used chicago.csv new_york_city.csv washington.csv
+Files used :
+ 1- chicago.csv :
+    It's excel representing chicago data set
+ 2- new_york_city.csv :
+    It's excel representing new_york data set
+ 3- washington.csv :
+    It's excel representing washington data set
 
 Programming Language used python 3.7
 
@@ -22,4 +28,6 @@ Credits Resources helped me to complete the project:
 
 pandas: powerful Python data analysis library
 
-we used libraries "pandas , numby"
+we used libraries :
+ 1- pandas : It's a python lib
+ 2- numby" : It's a python lib
